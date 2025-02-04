@@ -16,7 +16,7 @@ async function bootstrap() {
   );
 
   const config = new DocumentBuilder()
-    .setTitle('Belajar NestJS ErickYusuf')
+    .setTitle('Belajar NestJS ErickYusuffff')
     .setDescription(
       'Belajar NestJS adalah tutorial yang dibangun menggunakan framework NestJS',
     )
